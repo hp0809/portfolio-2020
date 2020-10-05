@@ -1,8 +1,9 @@
 {
+  "homepage": "https://hp0809.github.io/portfolio",
   "name": "personalportfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://hp0809.github.io/portfolio",
+  
   "dependencies": {
     "jquery": "^3.5.1",
     "react": "^16.13.1",
