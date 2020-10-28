@@ -3,7 +3,6 @@
   "name": "personalportfolio",
   "version": "0.1.0",
   "private": true,
-  
   "dependencies": {
     "jquery": "^3.5.1",
     "react": "^16.13.1",
@@ -11,7 +10,6 @@
     "react-ga": "^3.1.2",
     "react-scripts": "3.4.3"
   },
-  
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
@@ -31,5 +29,17 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "description": "HTML Design Template\r <a href=\"https://www.styleshout.com/free-templates/ceevee/\">Ceevee Template by Styleshout</a>",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hp0809/portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hp0809/portfolio/issues"
   }
 }

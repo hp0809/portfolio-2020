@@ -108,10 +108,16 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Amazon React Clone",
-        "category": "Amazon built with React.js and has fully functional payment with Stripe",
+        "title": "Netflix React Clone",
+        "category": "Netflix built with React.js",
         "image": "amazon-clone.gif",
         "url": "https://clone-c02a7.web.app/"
+      },
+      {
+        "title": "Amazon React Clone",
+        "category": "Amazon built with React.js and has fully functional payment with Stripe",
+        "image": "netflix-clone.gif",
+        "url": "https://netflix-react-clone-e4319.web.app/"
       },
       {
         "title": "Sing Along",
